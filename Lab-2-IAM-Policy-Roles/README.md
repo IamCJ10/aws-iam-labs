@@ -46,7 +46,6 @@ Create and attach a custom IAM policy to enforce fine-grained permissions, and t
 ## Screenshots
 - `custom-policy-json.png` – Custom policy created in JSON editor
 - `policy-attached-to-user.png` – IAM user with custom policy attached
-- `denied-access-test.png` – Proof of denied access before permission update
 - `allowed-access-test.png` – Successful test after updating policy
 
 ---
